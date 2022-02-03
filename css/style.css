@@ -1,0 +1,33 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.logo-myle{
+    margin-top: 2vh;
+}
+
+.navegador{
+    margin-top: 2vh;
+}
+
+.body--index{
+    background: url(../img/fondo_ppal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lista-rrss{
+    list-style: none;
+}
+
+.square-box{
+    height: 80vh;
+}
+
+.carousel-innner{
+    max-width: 70vw;
+}
+
+img {
+    max-width: 70vw;
+}
